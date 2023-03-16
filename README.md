@@ -7,7 +7,7 @@
 ◼️ within in one click user can get whole transaction and easily to add new expenditure.<br>
 ◼️ We worked closely with our team of experts to execute the project successfully.<br>
 ◼️ GitHub link: https://lnkd.in/gxB57S9a <br>
-◼️ Live link: https://lnkd.in/g-wwwMDZ <br>
+◼️ Live link: http://3.134.178.83:8080/swagger-ui.html#/ <br>
 
 
 ## 👉 Requirements
